@@ -8,68 +8,71 @@ body{
     /*background-color: #ffffff;*/
     font-size: 1.2rem;
 
-   }
-   
+}
+
 
 ul{
     list-style-type: none;
     text-align: left;
-    padding:0px}
+padding:0px}
 article {
     font-size: 1.1rem;
     margin: auto;
     max-width: 800px;
 }
-    
+
 p {
-      text-indent: 0px;
-      text-align: justify;
-      text-justify:auto;
-     /* inter-word;*/
-    }
+    text-indent: 0px;
+    text-align: justify;
+    text-justify:auto;
+    /* inter-word;*/
+}
 a { color:black}
 
 /*
  * comment
  */
-.section{
-       text-align:center justify;
-       max-width: 800;
-       font-family: Lato, sans-serif;
+    .section{
+        text-align:center justify;
+        max-width: 800;
+        font-family: Lato, sans-serif;
         font-weight: 300;
         width:75%;
         margin: auto;
-           }
+    }
 
-.teaser{text-align: center;}
-.fig-first-page { text-indent:5px;}
-.paper{
+    .teaser{text-align: center;}
+    .fig-first-page { text-indent:5px;}
+    .paper{
 
-    width:75%;
-    margin: auto;
-}
-.title {
-    font-size: 2.5rem;
-    font-weight: 500;
-    letter-spacing: .4rem;
-    padding: 50px 0 30px;
-    text-align: center;
-    text-transform: uppercase;
-  }
-.subtitle {
-    text-align: left;
-    letter-spacing: .2rem;
-  }
+        width:75%;
+        margin: auto;
+    }
+    .title {
+        font-size: 2.5rem;
+        font-weight: 500;
+        letter-spacing: .4rem;
+        padding: 50px 0 30px;
+        text-align: center;
+        text-transform: uppercase;
+    }
+    .subtitle {
+        text-align: left;
+        letter-spacing: .2rem;
+    }
 
-.link-paper a{ color:#aaa; 
-    } 
+.link-paper { 
+    color:#aaa; } 
+    .link-paper a{ 
+        text-decoration:none;
+    color:#aaa; } 
 
-.author{
+    .author{
     padding: 40px}
 
-.authors_v2{
-            text-decoration:underline;
-            color:black
-            }
-.authors-list{
+    .authors_v2{
+        text-decoration:underline;
+        color:black
+    }
+    .authors-list{
     text-align:center}
