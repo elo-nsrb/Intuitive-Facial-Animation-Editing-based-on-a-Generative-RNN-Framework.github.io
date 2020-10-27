@@ -62,6 +62,8 @@ a { color:black}
     }
 
 .link-paper { 
+        text-align: center;
+        margin-left: 10px;
     color:#aaa; } 
     .link-paper a{ 
         text-decoration:none;
@@ -71,7 +73,7 @@ a { color:black}
     padding: 40px}
 
     .authors_v2{
-        text-decoration:underline;
+        text-decoration:None;
         color:black
     }
     .authors-list{
